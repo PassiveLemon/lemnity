@@ -42,7 +42,7 @@
 		"PRIMARY_DARK_900": "#292929",
 		"BRAND_NEW": "#1c1c1c"
 	},
-	"unsafe_colors": {
+	"unsafe_colors":{
 		"CHAT_GREY": "#383838"
 	}
 }
