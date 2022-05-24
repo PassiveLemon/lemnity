@@ -1,48 +1,48 @@
 {
-    "name":"Lemon"
-    "author":"PassiveLemon#9835"
-    "theme_color_map": {
-      "KEYBOARD": ["#", "#"],
-		  "BACKGROUND_PRIMARY": ["#", "#"],
-	  	"BACKGROUND_SECONDARY": ["#", "#"],
-	  	"BACKGROUND_SECONDARY_ALT": ["#", "#"],
-	  	"BACKGROUND_TERTIARY": ["#", "#"],
-	  	"BACKGROUND_ACCENT": ["#", "#"],
-	  	"BACKGROUND_FLOATING": ["#", "#"],
-	  	"BACKGROUND_NESTED_FLOATING": ["#", "#"],
-	  	"BACKGROUND_MOBILE_PRIMARY": ["#", "#"],
-	  	"BACKGROUND_MOBILE_SECONDARY": ["#", "#"],
-	  	"BACKGROUND_MODIFIER_HOVER": ["#", "#"],
-	  	"BACKGROUND_MODIFIER_ACTIVE": ["#", "#"],
-	  	"BACKGROUND_MODIFIER_SELECTED": ["#", "#"],
-  		"BACKGROUND_MODIFIER_ACCENT": ["#", "#"],
-	  	"CHANNELTEXTAREA_BACKGROUND": ["#", "#"],
-	  	"CHANNELS_DEFAULT": ["#", "#"],
-	   	"HEADER_PRIMARY": ["#", "#"],
-	  	"HEADER_SECONDARY": ["#", "#"],
-	  	"INTERACTIVE_ACTIVE": ["#", "#"],
-	  	"INTERACTIVE_MUTED": ["#", "#"],
-  		"INTERACTIVE_NORMAL": ["#", "#"],
-  		"TEXT_NORMAL": ["#", "#"],
-	  	"TEXT_MUTED": ["#", "#"],
-	  	"TEXT_LINK": ["#", "#"]
-    },
-    "colours": {
-      "PRIMARY_DARK": "#",
-		  "PRIMARY_DARK_100": "#",
-		  "PRIMARY_DARK_200": "#",
-		  "PRIMARY_DARK_300": "#",
-		  "PRIMARY_DARK_360": "#",
-		  "PRIMARY_DARK_400": "#",
-		  "PRIMARY_DARK_500": "#",
-		  "PRIMARY_DARK_600": "#",
-		  "PRIMARY_DARK_630": "#",
-		  "PRIMARY_DARK_700": "#",
-		  "PRIMARY_DARK_800": "#",
-		  "PRIMARY_DARK_900": "#",
-		  "BRAND_NEW": "#"
-    },
-    "unsafe_colors": {
-      "CHAT_GREY": "#"
-    }
+	"name":"Lemon"
+	"author":"PassiveLemon#9835"
+	"theme_color_map": {
+		"KEYBOARD": ["#", "#"],
+		"BACKGROUND_PRIMARY": ["#", "#"],
+		"BACKGROUND_SECONDARY": ["#", "#"],
+		"BACKGROUND_SECONDARY_ALT": ["#", "#"],
+		"BACKGROUND_TERTIARY": ["#", "#"],
+		"BACKGROUND_ACCENT": ["#", "#"],
+		"BACKGROUND_FLOATING": ["#", "#"],
+		"BACKGROUND_NESTED_FLOATING": ["#", "#"],
+		"BACKGROUND_MOBILE_PRIMARY": ["#", "#"],
+		"BACKGROUND_MOBILE_SECONDARY": ["#", "#"],
+		"BACKGROUND_MODIFIER_HOVER": ["#", "#"],
+		"BACKGROUND_MODIFIER_ACTIVE": ["#", "#"],
+		"BACKGROUND_MODIFIER_SELECTED": ["#", "#"],
+		"BACKGROUND_MODIFIER_ACCENT": ["#", "#"],
+		"CHANNELTEXTAREA_BACKGROUND": ["#", "#"],
+		"CHANNELS_DEFAULT": ["#", "#"],
+		"HEADER_PRIMARY": ["#", "#"],
+		"HEADER_SECONDARY": ["#", "#"],
+		"INTERACTIVE_ACTIVE": ["#", "#"],
+		"INTERACTIVE_MUTED": ["#", "#"],
+		"INTERACTIVE_NORMAL": ["#", "#"],
+		"TEXT_NORMAL": ["#", "#"],
+		"TEXT_MUTED": ["#", "#"],
+		"TEXT_LINK": ["#", "#"]
+	},
+	"colours": {
+		"PRIMARY_DARK": "#",
+		"PRIMARY_DARK_100": "#",
+		"PRIMARY_DARK_200": "#",
+		"PRIMARY_DARK_300": "#",
+		"PRIMARY_DARK_360": "#",
+		"PRIMARY_DARK_400": "#",
+		"PRIMARY_DARK_500": "#",
+		"PRIMARY_DARK_600": "#",
+		"PRIMARY_DARK_630": "#",
+		"PRIMARY_DARK_700": "#",
+		"PRIMARY_DARK_800": "#",
+		"PRIMARY_DARK_900": "#",
+		"BRAND_NEW": "#"
+	},
+	"unsafe_colors": {
+		"CHAT_GREY": "#"
+	}
 }
