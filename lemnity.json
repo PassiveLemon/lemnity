@@ -1,35 +1,35 @@
 {
-	"name":"Lemon"
+	"name":"lemnity"
 	"author":"PassiveLemon#9835"
 	"theme_color_map": {
-		"KEYBOARD": ["#", "#"],
-		"BACKGROUND_PRIMARY": ["#", "#"],
-		"BACKGROUND_SECONDARY": ["#", "#"],
-		"BACKGROUND_SECONDARY_ALT": ["#", "#"],
-		"BACKGROUND_TERTIARY": ["#", "#"],
-		"BACKGROUND_ACCENT": ["#", "#"],
-		"BACKGROUND_FLOATING": ["#", "#"],
-		"BACKGROUND_NESTED_FLOATING": ["#", "#"],
-		"BACKGROUND_MOBILE_PRIMARY": ["#", "#"],
-		"BACKGROUND_MOBILE_SECONDARY": ["#", "#"],
-		"BACKGROUND_MODIFIER_HOVER": ["#", "#"],
-		"BACKGROUND_MODIFIER_ACTIVE": ["#", "#"],
-		"BACKGROUND_MODIFIER_SELECTED": ["#", "#"],
-		"BACKGROUND_MODIFIER_ACCENT": ["#", "#"],
-		"CHANNELTEXTAREA_BACKGROUND": ["#", "#"],
-		"CHANNELS_DEFAULT": ["#", "#"],
-		"HEADER_PRIMARY": ["#", "#"],
-		"HEADER_SECONDARY": ["#", "#"],
-		"INTERACTIVE_ACTIVE": ["#", "#"],
-		"INTERACTIVE_MUTED": ["#", "#"],
-		"INTERACTIVE_NORMAL": ["#", "#"],
-		"TEXT_NORMAL": ["#", "#"],
-		"TEXT_MUTED": ["#", "#"],
-		"TEXT_LINK": ["#", "#"]
+		"KEYBOARD": ["#1c1c1c", "#1c1c1c"],
+		"BACKGROUND_PRIMARY": ["#1c1c1c", "#1c1c1c"],
+		"BACKGROUND_SECONDARY": ["#292929", "#292929"],
+		"BACKGROUND_SECONDARY_ALT": ["#303030", "#303030"],
+		"BACKGROUND_TERTIARY": ["#303030", "#303030"],
+		"BACKGROUND_ACCENT": ["#5c5c5c", "#5c5c5c"],
+		"BACKGROUND_FLOATING": ["#1c1c1c", "#1c1c1c"],
+		"BACKGROUND_NESTED_FLOATING": ["#292929", "#292929"],
+		"BACKGROUND_MOBILE_PRIMARY": ["#303030", "#303030"],
+		"BACKGROUND_MOBILE_SECONDARY": ["#292929", "#292929"],
+		"BACKGROUND_MODIFIER_HOVER": ["#3b3b3b", "#3b3b3b"],
+		"BACKGROUND_MODIFIER_ACTIVE": ["#3b3b3b", "#3b3b3b"],
+		"BACKGROUND_MODIFIER_SELECTED": ["#1c1c1c", "#1c1c1c"],
+		"BACKGROUND_MODIFIER_ACCENT": ["#bfbfbf", "#bfbfbf"],
+		"CHANNELTEXTAREA_BACKGROUND": ["#303030", "#303030"],
+		"CHANNELS_DEFAULT": ["#edfa00", "#edfa00"],
+		"HEADER_PRIMARY": ["#edfa00", "#edfa00"],
+		"HEADER_SECONDARY": ["#edfa00", "#edfa00"],
+		"INTERACTIVE_ACTIVE": ["#bfbfbf", "#bfbfbf"],
+		"INTERACTIVE_MUTED": ["#bfbfbf", "#bfbfbf"],
+		"INTERACTIVE_NORMAL": ["#bfbfbf", "#bfbfbf"],
+		"TEXT_NORMAL": ["#ffffff", "#ffffff"],
+		"TEXT_MUTED": ["#aaaaaa", "#aaaaaa"],
+		"TEXT_LINK": ["#00b0f4", "#00b0f4"]
 	},
 	"colours": {
 		"PRIMARY_DARK": "#",
-		"PRIMARY_DARK_100": "#",
+		"PRIMARY_DARK_100": "#303030",
 		"PRIMARY_DARK_200": "#",
 		"PRIMARY_DARK_300": "#",
 		"PRIMARY_DARK_360": "#",
@@ -39,10 +39,10 @@
 		"PRIMARY_DARK_630": "#",
 		"PRIMARY_DARK_700": "#",
 		"PRIMARY_DARK_800": "#",
-		"PRIMARY_DARK_900": "#",
-		"BRAND_NEW": "#"
+		"PRIMARY_DARK_900": "#292929",
+		"BRAND_NEW": "#1c1c1c"
 	},
 	"unsafe_colors": {
-		"CHAT_GREY": "#"
+		"CHAT_GREY": "#383838"
 	}
 }
