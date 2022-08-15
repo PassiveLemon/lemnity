@@ -46,8 +46,8 @@
 		"CHAT_GREY": "#383838"
 	},
 	"background": {
-		"blur": 0.1,
-		"url": "https://cdn.discordapp.com/attachments/964349900164837387/1008885533101010944/Magical_Nights_227661_rectangle.jpg?size=4096",
-		"alpha": 1.0
-	}
+   		"blur": 0.1,
+    		"url": "https://cdn.discordapp.com/attachments/964349900164837387/1008885533101010944/Magical_Nights_227661_rectangle.jpg?size=4096",
+    		"alpha": 1.0
+  }
 }
