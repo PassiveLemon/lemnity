@@ -1,6 +1,7 @@
 {
 	"name": "lemnity",
 	"author": "PassiveLemon#9835",
+	"description": "Lemons",
 	"theme_color_map": {
 		"KEYBOARD": ["#1C1C1C", "#1C1C1C"],
 		"BACKGROUND_PRIMARY": ["#1C1C1C", "#1C1C1C"],
@@ -44,5 +45,10 @@
 	},
 	"unsafe_colors": {
 		"CHAT_GREY": "#383838"
+	},
+	"background": {
+		"blur": 0.1
+		"url": "https://cdn.discordapp.com/attachments/964349900164837387/1008885533101010944/Magical_Nights_227661_rectangle.jpg?size=4096"
+		"alpha": 1.0
 	}
 }
