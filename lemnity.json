@@ -4,7 +4,7 @@
 	"author": "PassiveLemon#9835",
 	"theme_color_map": {
 		"KEYBOARD": ["#1C1C1C", "#1C1C1C"],
-		"BACKGROUND_PRIMARY": ["#333333", "#333333"],
+		"BACKGROUND_PRIMARY": ["#1a1a1a", "#1a1a1a"],
 		"BACKGROUND_SECONDARY": ["#292929", "#292929"],
 		"BACKGROUND_SECONDARY_ALT": ["#303030", "#303030"],
 		"BACKGROUND_TERTIARY": ["#1a1a1a", "#1a1a1a"],
